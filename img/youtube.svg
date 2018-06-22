@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-1137.000000, -14.000000)">
+            <g id="youtube">
+                <g transform="translate(1137.000000, 14.000000)">
+                    <g id="Group">
+                        <path d="M0,10.001 C0,12.071 0.25,14.117 0.25,14.117 C0.251,14.117 0.474,15.88 1.194,16.657 C2.106,17.676 3.127,17.717 3.598,17.75 C6.957,17.987 12,18 12,18 C12,18 17.042,17.987 20.401,17.75 C20.873,17.717 21.893,17.676 22.806,16.657 C23.526,15.88 23.75,14.117 23.75,14.117 C23.75,14.117 24,12.071 24,10.001 L24,8 C24,5.929 23.75,3.884 23.75,3.884 C23.75,3.884 23.526,2.119 22.806,1.343 C21.893,0.323 20.873,0.282 20.401,0.25 C17.042,0.012 12,0 12,0 C12,0 6.957,0.012 3.598,0.25 C3.127,0.282 2.106,0.323 1.194,1.343 C0.474,2.119 0.25,3.884 0.25,3.884 C0.251,3.884 0,5.929 0,8 L0,10.001" id="Fill-122" fill="#BABABA"></path>
+                        <polyline id="Fill-124" fill="#FFFFFF" points="10 13 16 9 10 5 10 13"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

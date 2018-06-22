@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>People</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="People" transform="translate(-1.000000, -1.000000)">
+            <rect id="Base" x="-1.24344979e-13" y="0" width="24" height="24"></rect>
+            <g id="Icon">
+                <rect id="Base" x="0.363636364" y="0.363636364" width="23.2727273" height="23.2727273"></rect>
+                <circle id="Oval-6" fill="#F22961" cx="12" cy="12" r="11"></circle>
+                <path d="M12,11.6 C10.6745166,11.6 9.6,10.5254834 9.6,9.2 C9.6,7.8745166 10.6745166,6.8 12,6.8 C13.3254834,6.8 14.4,7.8745166 14.4,9.2 C14.4,10.5254834 13.3254834,11.6 12,11.6 Z M16,16.4 C15.5549156,16.9333333 14.2215823,17.2 12,17.2 C9.77841772,17.2 8.44508439,16.9333333 8,16.4 C8,14.190861 9.790861,12.4 12,12.4 C14.209139,12.4 16,14.190861 16,16.4 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
